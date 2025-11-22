@@ -448,7 +448,7 @@ live-server --port=8080
 
 **Haytham Mohammed Khalil**
 - Student ID: 2049011015
-- Course: Internet of Things - August 2025
+- Course: Internet of Things (CSE04)- August 2025
 - Location: Gaza, Palestine
 - Instructor: Dr. Ezzeldeen Edwan:
 
@@ -478,4 +478,7 @@ This project was developed in response to the critical energy infrastructure cha
 The entire project is open-source and freely available for deployment in any crisis situation worldwide.
 
 ---
-
+## 🗃️ Additional files of this project
+- [Project Report (.pdf file)](https://drive.google.com/file/d/19JM8qishBUoZc5BgdbfJHHw9lyBr9hGI/view?usp=sharing)
+- [Project Presentation + Demo + code video (.mp4 file)](https://drive.google.com/file/d/1FA1nUT_wmET8rP5xN315uuVFP6nOQ97b/view?usp=sharing)
+- [Presentation slides (.pdf)](https://drive.google.com/file/d/1_NJ1-4sztHSe6oT3g8nkMQEKXyu2dbJx/view?usp=sharing)
