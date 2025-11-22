@@ -25,7 +25,6 @@
 - [Contributing](#-contributing)
 - [Author](#-author)
 - [License](#-license)
-- [Acknowledgments](#-acknowledgments)
 
 ## 🌐 Overview
 
@@ -450,20 +449,20 @@ live-server --port=8080
 **Haytham Mohammed Khalil**
 - Student ID: 2049011015
 - Course: Internet of Things - August 2025
-- Instructor: Dr. Ezzeldeen Edwan CSE04
-- Location: Nablus, West Bank, Palestine
+- Location: Gaza, Palestine
+- Instructor: Dr. Ezzeldeen Edwan:
+
+Assistant Professor and head of library department at PTC
+ICPET IEEE conference General Co-Chair
+PTC coordinator for MS@CPS, Edu4All and ICT4EDU Erasmus+ Projects
+Email: ezedwan@ptcdb.edu.ps
+Web: www.ptcdb.edu.ps/site/ezedwan, Tel: +97082531171/2, Mobile: +970595189775
+Google Scholar: https://scholar.google.com/citations?user=j7rD_FoAAAAJ&hl=en&oi=ao
+Research Gate: https://www.researchgate.net/profile/Ezzaldeen_Edwan
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Dr. Ezzeldeen Edwan** - Course instructor and project supervisor
-- **Wokwi Team** - For the excellent ESP32 simulation platform
-- **Firebase Team** - For reliable real-time database services
-- **Open Source Community** - For libraries and tools used
-- **Humanitarian Organizations** - Working to address energy crisis in conflict zones
 
 ---
 
@@ -479,13 +478,3 @@ This project was developed in response to the critical energy infrastructure cha
 The entire project is open-source and freely available for deployment in any crisis situation worldwide.
 
 ---
-
-<div align="center">
-  
-**Made with ❤️ for humanitarian impact**
-
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/watchers)
-
-</div>
