@@ -125,9 +125,9 @@ graph TB
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Dashboard](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)**
+🔗 **[View Live Dashboard](https://haytham-420.github.io/IoT-Solar-Monitoring-ESP32-Dashboard/)**
 
-> Replace with your actual GitHub Pages URL
+> Might stop working when unlinking Firebase backend from this public repo
 
 ## 🔧 Components
 
@@ -478,3 +478,4 @@ This project was developed in response to the critical energy infrastructure cha
 The entire project is open-source and freely available for deployment in any crisis situation worldwide.
 
 ---
+
